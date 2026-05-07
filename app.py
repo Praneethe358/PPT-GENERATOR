@@ -101,4 +101,3 @@ for title, points in slides_data:
 # Save file
 prs.save("Module_4_Presentation.pptx")
 print("praneeth")
-print("praneeth")
