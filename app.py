@@ -1,3 +1,6 @@
+"""Auto PPT generator
+Random change 1: header added"""
+
 from pptx import Presentation
 from pptx.util import Inches, Pt
 from pptx.dml.color import RGBColor
